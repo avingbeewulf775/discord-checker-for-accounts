@@ -1,0 +1,5 @@
+requests~=2.27.1
+colorama~=0.4.4
+PyJWT~=2.3.0
+
+wcigsp
